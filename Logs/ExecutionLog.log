@@ -1,0 +1,31 @@
+2024-01-12 01:23:42,863 - CoverFoxInsurence -INFO - Launching Cover fox
+2024-01-12 01:24:44,177 - CoverFoxInsurence -INFO - Clicking on male button
+2024-01-12 01:24:47,742 - CoverFoxInsurence -INFO - Clicking on next button
+2024-01-12 01:25:01,973 - CoverFoxInsurence -INFO - Hanldeling Age DropDown
+2024-01-12 01:25:02,109 - CoverFoxInsurence -INFO - Clicking on next button
+2024-01-12 01:25:07,123 - CoverFoxInsurence -INFO - Entering pin code
+2024-01-12 01:25:10,467 - CoverFoxInsurence -INFO - Entering mobile num 
+2024-01-12 01:25:10,922 - CoverFoxInsurence -INFO - Clicking on continue button
+2024-01-12 01:25:24,296 - CoverFoxInsurence -INFO -  Fetching number of results from Banners
+2024-01-12 01:25:25,380 - CoverFoxInsurence -ERROR - TC is passed  
+2024-01-17 13:48:00,260 - CoverFoxInsurence -INFO - Launching Cover fox
+2024-01-17 14:03:38,293 - CoverFoxInsurence -INFO - Launching Cover fox
+2024-01-17 14:04:20,992 - CoverFoxInsurence -INFO - Clicking on male button
+2024-01-17 14:04:23,264 - CoverFoxInsurence -INFO - Clicking on next button
+2024-01-17 14:04:35,109 - CoverFoxInsurence -INFO - Hanldeling Age DropDown
+2024-01-17 14:04:35,202 - CoverFoxInsurence -INFO - Clicking on next button
+2024-01-17 14:04:40,214 - CoverFoxInsurence -INFO - Entering pin code
+2024-01-17 14:04:42,644 - CoverFoxInsurence -INFO - Entering mobile num 
+2024-01-17 14:04:43,031 - CoverFoxInsurence -INFO - Clicking on continue button
+2024-01-17 14:04:56,223 - CoverFoxInsurence -INFO -  Fetching number of results from Banners
+2024-01-17 14:04:57,405 - CoverFoxInsurence -ERROR - TC is passed  
+2024-01-17 16:40:27,216 - CoverFoxInsurence -INFO - Launching Cover fox
+2024-01-17 16:42:45,376 - CoverFoxInsurence -INFO - Clicking on male button
+2024-01-17 16:42:48,107 - CoverFoxInsurence -INFO - Clicking on next button
+2024-01-17 16:43:03,620 - CoverFoxInsurence -INFO - Hanldeling Age DropDown
+2024-01-17 16:43:03,799 - CoverFoxInsurence -INFO - Clicking on next button
+2024-01-17 16:43:08,802 - CoverFoxInsurence -INFO - Entering pin code
+2024-01-17 16:43:11,311 - CoverFoxInsurence -INFO - Entering mobile num 
+2024-01-17 16:43:12,109 - CoverFoxInsurence -INFO - Clicking on continue button
+2024-01-17 16:43:26,009 - CoverFoxInsurence -INFO -  Fetching number of results from Banners
+2024-01-17 16:43:28,901 - CoverFoxInsurence -ERROR - TC is passed  
