@@ -29,3 +29,13 @@
 2024-01-17 16:43:12,109 - CoverFoxInsurence -INFO - Clicking on continue button
 2024-01-17 16:43:26,009 - CoverFoxInsurence -INFO -  Fetching number of results from Banners
 2024-01-17 16:43:28,901 - CoverFoxInsurence -ERROR - TC is passed  
+2024-01-17 22:41:11,278 - CoverFoxInsurence -INFO - Launching Cover fox
+2024-01-17 22:42:10,914 - CoverFoxInsurence -INFO - Clicking on male button
+2024-01-17 22:42:18,670 - CoverFoxInsurence -INFO - Clicking on next button
+2024-01-17 22:42:37,693 - CoverFoxInsurence -INFO - Hanldeling Age DropDown
+2024-01-17 22:42:37,965 - CoverFoxInsurence -INFO - Clicking on next button
+2024-01-17 22:42:42,981 - CoverFoxInsurence -INFO - Entering pin code
+2024-01-17 22:42:46,078 - CoverFoxInsurence -INFO - Entering mobile num 
+2024-01-17 22:42:46,638 - CoverFoxInsurence -INFO - Clicking on continue button
+2024-01-17 22:43:00,476 - CoverFoxInsurence -INFO -  Fetching number of results from Banners
+2024-01-17 22:43:01,546 - CoverFoxInsurence -ERROR - TC is passed  
