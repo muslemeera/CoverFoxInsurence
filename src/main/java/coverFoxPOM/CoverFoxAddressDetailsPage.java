@@ -26,5 +26,7 @@ public class CoverFoxAddressDetailsPage {
 	public void clickOnContinueButton()
 	{
 	continueButton.click();
+	
+	
 	}
 }
